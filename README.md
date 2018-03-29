@@ -8,14 +8,14 @@ Afin de lancer le jeu il est nécessaire d'entrer un mot de passe suivie de la t
 Une fois le jeu déverrouillé on dispose de 5 tentatives pour trouver le bon numéro.
 
 
-# Pour ce projet le matériel utilisé est le suivant : 
+# Matériel utilisé : 
 
 - Arduino Leonardo
 - Un breadboard
 - 2 leds ( 1 verte et 1 rouge)
 - un keypad
 
-# Les librairie utilisés : 
+# Librairie utilisés : 
 
 - Keypad
 - Password
