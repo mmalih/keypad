@@ -1,6 +1,6 @@
-# keypad
+# Guess number
 
-Keypad est un jeu qui consiste à deviner un numéro qui est généré aléatoirement par l'arduino, en seulement 5 tentatives.
+Guess number est un jeu qui consiste à deviner un numéro qui est généré aléatoirement par l'arduino, en seulement 5 tentatives.
 
 # Déroulement
 
