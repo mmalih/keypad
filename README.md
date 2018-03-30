@@ -24,4 +24,4 @@ Une fois le jeu déverrouillé on dispose de 5 tentatives pour trouver le bon nu
 
 ![Fritzing_Projet_Arduino_bb](Fritzing_Projet_Arduino_bb.png)
 
-[Diagramme schématique](keypad/Keypad/Fritzing_Projet_Arduino_bb.png)
+[Diagramme schématique](dev/keypad/Keypad/Fritzing_Projet_Arduino_bb.png)
