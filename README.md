@@ -22,6 +22,4 @@ Une fois le jeu déverrouillé on dispose de 5 tentatives pour trouver le bon nu
 - (Liquidcrystal)
 
 
-![Fritzing_Projet_Arduino_bb](https://drive.google.com/file/d/1wkaAeJRf4Vp_gqNZRU2xz2VdkO0QQAGG/view?usp=sharing)
-
-[Diagramme schématique](https://drive.google.com/file/d/1wkaAeJRf4Vp_gqNZRU2xz2VdkO0QQAGG/view?usp=sharing)
+[Schéma montage](https://drive.google.com/file/d/1wkaAeJRf4Vp_gqNZRU2xz2VdkO0QQAGG/view?usp=sharing)
