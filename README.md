@@ -23,3 +23,7 @@ Une fois le jeu déverrouillé on dispose de 5 tentatives pour trouver le bon nu
 
 
 [Schéma montage](https://drive.google.com/file/d/1wkaAeJRf4Vp_gqNZRU2xz2VdkO0QQAGG/view?usp=sharing)
+
+# Problèmes rencontrés 
+
+Affichage LCD ne fonctionne pas (problème de connectique??) 
